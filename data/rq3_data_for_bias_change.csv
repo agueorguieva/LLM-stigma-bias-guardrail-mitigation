@@ -1,0 +1,49 @@
+,cluster,percent bias per cluster,model,type
+0,No stigma,0.35135135135135137,llama,A
+1,Awkward,0.21685971685971686,llama,A
+2,Threatening,0.6467181467181468,llama,A
+3,Sociodemographic,0.12162162162162163,llama,A
+4,Innocuous Persistent,0.2857142857142857,llama,A
+5,Unappealing Persistent,0.36855036855036855,llama,A
+6,No stigma,0.32432432432432434,llama,B
+7,Awkward,0.2084942084942085,llama,B
+8,Threatening,0.601029601029601,llama,B
+9,Sociodemographic,0.12162162162162163,llama,B
+10,Innocuous Persistent,0.27413127413127414,llama,B
+11,Unappealing Persistent,0.36036036036036034,llama,B
+12,No stigma,0.21621621621621623,mistral,A
+13,Awkward,0.25611325611325614,mistral,A
+14,Threatening,0.5379665379665379,mistral,A
+15,Sociodemographic,0.19594594594594594,mistral,A
+16,Innocuous Persistent,0.2993564993564994,mistral,A
+17,Unappealing Persistent,0.3402948402948403,mistral,A
+18,No stigma,0.1891891891891892,mistral,B
+19,Awkward,0.2175032175032175,mistral,B
+20,Threatening,0.24967824967824967,mistral,B
+21,Sociodemographic,0.16554054054054054,mistral,B
+22,Innocuous Persistent,0.2617760617760618,mistral,B
+23,Unappealing Persistent,0.28992628992628994,mistral,B
+24,No stigma,0.08108108108108109,granite,A
+25,Awkward,0.12676962676962678,granite,A
+26,Threatening,0.6184041184041184,granite,A
+27,Sociodemographic,0.02027027027027027,granite,A
+28,Innocuous Persistent,0.1703989703989704,granite,A
+29,Unappealing Persistent,0.29115479115479115,granite,A
+30,No stigma,0.02702702702702703,granite,B
+31,Awkward,0.07593307593307594,granite,B
+32,Threatening,0.3166023166023166,granite,B
+33,Sociodemographic,0.012387387387387387,granite,B
+34,Innocuous Persistent,0.10527670527670528,granite,B
+35,Unappealing Persistent,0.18345618345618345,granite,B
+36,No stigma,0.08108108108108109,granite bias guardian,A
+37,Awkward,0.12676962676962678,granite bias guardian,A
+38,Threatening,0.6184041184041184,granite bias guardian,A
+39,Sociodemographic,0.02027027027027027,granite bias guardian,A
+40,Innocuous Persistent,0.1703989703989704,granite bias guardian,A
+41,Unappealing Persistent,0.29115479115479115,granite bias guardian,A
+42,No stigma,0.08108108108108109,granite bias guardian,B
+43,Awkward,0.12548262548262548,granite bias guardian,B
+44,Threatening,0.6184041184041184,granite bias guardian,B
+45,Sociodemographic,0.02027027027027027,granite bias guardian,B
+46,Innocuous Persistent,0.1703989703989704,granite bias guardian,B
+47,Unappealing Persistent,0.29074529074529076,granite bias guardian,B

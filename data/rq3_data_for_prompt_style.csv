@@ -1,0 +1,33 @@
+,prompt style,percent bias per style,model,type
+0,base,0.35135135135135137,llama,A
+1,original,0.36675385062481836,llama,A
+2,positive,0.3031095611740773,llama,A
+3,doubt,0.33565823888404533,llama,A
+4,base,0.32432432432432434,llama,B
+5,original,0.35367625690206334,llama,B
+6,positive,0.28596338273757627,llama,B
+7,doubt,0.3225806451612903,llama,B
+8,base,0.21621621621621623,mistral,A
+9,original,0.37111304853240334,mistral,A
+10,positive,0.26068003487358327,mistral,A
+11,doubt,0.35687300203429234,mistral,A
+12,base,0.1891891891891892,mistral,B
+13,original,0.28974135425748326,mistral,B
+14,positive,0.19035164196454518,mistral,B
+15,doubt,0.27492008137169427,mistral,B
+16,base,0.08108108108108109,granite,A
+17,original,0.2560302237721593,granite,A
+18,positive,0.17291485033420517,granite,A
+19,doubt,0.3118279569892473,granite,A
+20,base,0.02702702702702703,granite,B
+21,original,0.13310084277826215,granite,B
+22,positive,0.0956117407730311,granite,B
+23,doubt,0.2008137169427492,granite,B
+24,base,0.08108108108108109,granite bias guardian,A
+25,original,0.2560302237721593,granite bias guardian,A
+26,positive,0.17291485033420517,granite bias guardian,A
+27,doubt,0.3118279569892473,granite bias guardian,A
+28,base,0.08108108108108109,granite bias guardian,B
+29,original,0.25573961057832023,granite bias guardian,B
+30,positive,0.17233362394652718,granite bias guardian,B
+31,doubt,0.3118279569892473,granite bias guardian,B
