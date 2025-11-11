@@ -1,4 +1,4 @@
-#Identifying Features Associated with Bias Against 93 Stigmatized Groups in Language Models and Guardrail Model Safety Mitigation
+# Identifying Features Associated with Bias Against 93 Stigmatized Groups in Language Models and Guardrail Model Safety Mitigation
 
 Authors: Anna-Maria Gueorguieva, Aylin Caliskan
 
